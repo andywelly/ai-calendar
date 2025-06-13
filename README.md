@@ -1,4 +1,4 @@
 # ai_calendar
 
-A new Flutter project.
+A new Flutter project
 
