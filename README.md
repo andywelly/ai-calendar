@@ -1,4 +1,4 @@
 # ai_calendar
 
-A new Flutter project
+Mobile App that automatically adds events to calendar
 
